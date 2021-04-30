@@ -1,0 +1,524 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/yosoybottom.png",
+			"ascent":7,
+			"chars": [
+				"󽩩"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/worm_lawful.png",
+			"ascent":7,
+			"chars": [
+				"􋢺"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/worm_chaotic.png",
+			"ascent":7,
+			"chars": [
+				"􋢱"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wimdy.png",
+			"ascent":7,
+			"chars": [
+				"󽄐"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/uwu.png",
+			"ascent":7,
+			"chars": [
+				"􄳎"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/thatface.png",
+			"ascent":7,
+			"chars": [
+				""
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/strabby.png",
+			"ascent":7,
+			"chars": [
+				"󶁃"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/squintbig.png",
+			"ascent":7,
+			"chars": [
+				"􄶕"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/squint.png",
+			"ascent":7,
+			"chars": [
+				"󴔿"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sowob.png",
+			"ascent":7,
+			"chars": [
+				"󲤨"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redpanda.png",
+			"ascent":7,
+			"chars": [
+				"󼆍"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redbow1Sadboi.png",
+			"ascent":7,
+			"chars": [
+				"􇈊"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redbow1Party.png",
+			"ascent":7,
+			"chars": [
+				"󺛂"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redbow1King.png",
+			"ascent":7,
+			"chars": [
+				"􍫞"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redbow1Angry.png",
+			"ascent":7,
+			"chars": [
+				"󰟒"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pissworm.png",
+			"ascent":7,
+			"chars": [
+				""
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pissboi.png",
+			"ascent":7,
+			"chars": [
+				"􁑮"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/owo.png",
+			"ascent":7,
+			"chars": [
+				"􆏉"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/oliverBABABA.png",
+			"ascent":7,
+			"chars": [
+				"􃇟"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/oliverBABA.png",
+			"ascent":7,
+			"chars": [
+				"􆡼"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nerdyp6Symp.png",
+			"ascent":7,
+			"chars": [
+				"􅷕"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nerdyp6Rip.png",
+			"ascent":7,
+			"chars": [
+				"󱍛"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nerdyp6Pog.png",
+			"ascent":7,
+			"chars": [
+				"󴅢"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nerdyp6Ghost.png",
+			"ascent":7,
+			"chars": [
+				"󹚃"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nerdyBABABA.png",
+			"ascent":7,
+			"chars": [
+				"􏜞"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/nerdyBABA.png",
+			"ascent":7,
+			"chars": [
+				"􌔽"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mahbutthole.png",
+			"ascent":7,
+			"chars": [
+				"󻪐"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/luigisaysfuck.png",
+			"ascent":7,
+			"chars": [
+				"󵸶"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/isaban.png",
+			"ascent":7,
+			"chars": [
+				"󲞉"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ilove.png",
+			"ascent":7,
+			"chars": [
+				"󱼆"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/horny.png",
+			"ascent":7,
+			"chars": [
+				"􌴉"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cactic1Sob.png",
+			"ascent":7,
+			"chars": [
+				"􃵢"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cactic1Simptime.png",
+			"ascent":7,
+			"chars": [
+				""
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cactic1HaveMercy.png",
+			"ascent":7,
+			"chars": [
+				"󲜹"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cactic1Celebrate.png",
+			"ascent":7,
+			"chars": [
+				"􍼻"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cactic1Boof.png",
+			"ascent":7,
+			"chars": [
+				"􃑻"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bottomdadiver.png",
+			"ascent":7,
+			"chars": [
+				"󺡢"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/baronyUnworthy.png",
+			"ascent":7,
+			"chars": [
+				"󵥟"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/baronyThighs.png",
+			"ascent":7,
+			"chars": [
+				"󽅯"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/baronyKawaii.png",
+			"ascent":7,
+			"chars": [
+				"󺺪"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/baronyBoom.png",
+			"ascent":7,
+			"chars": [
+				"󼻡"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/baronyAhem.png",
+			"ascent":7,
+			"chars": [
+				"󱎃"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azziecube.png",
+			"ascent":7,
+			"chars": [
+				"􂁐"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azraelBABABA.png",
+			"ascent":7,
+			"chars": [
+				"󲲟"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azraelBABA.png",
+			"ascent":7,
+			"chars": [
+				"􅔋"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/aziewtf.png",
+			"ascent":7,
+			"chars": [
+				"󻄹"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/aziethreaten.png",
+			"ascent":7,
+			"chars": [
+				"􅕅"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azietch.png",
+			"ascent":7,
+			"chars": [
+				"􄹾"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/aziesnzzz.png",
+			"ascent":7,
+			"chars": [
+				"􅣱"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/aziescheme.png",
+			"ascent":7,
+			"chars": [
+				"󲏫"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azieknifecat.png",
+			"ascent":7,
+			"chars": [
+				"󹙭"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azieily.png",
+			"ascent":7,
+			"chars": [
+				"󶍶"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/aziehowdareyou.png",
+			"ascent":7,
+			"chars": [
+				"󸃞"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/azieballoc.png",
+			"ascent":7,
+			"chars": [
+				"􄱇"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/among_report.png",
+			"ascent":7,
+			"chars": [
+				"􅒎"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/among_dead.png",
+			"ascent":7,
+			"chars": [
+				"􁨨"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_TransHeart.png",
+			"ascent":7,
+			"chars": [
+				"􎏡"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_PanHeart.png",
+			"ascent":7,
+			"chars": [
+				""
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_LesbianHeart.png",
+			"ascent":7,
+			"chars": [
+				"􏍾"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_GenderfluidHeart.png",
+			"ascent":7,
+			"chars": [
+				"􆽜"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_GayHeart.png",
+			"ascent":7,
+			"chars": [
+				"󼢾"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_EnbyHeart.png",
+			"ascent":7,
+			"chars": [
+				"󽜚"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_BiHeart.png",
+			"ascent":7,
+			"chars": [
+				"󴰣"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_AroHeart.png",
+			"ascent":7,
+			"chars": [
+				"󲆕"
+			]
+		},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/_AceHeart.png",
+			"ascent":7,
+			"chars": [
+				"󿜫"
+			]
+		}
+	]
+}

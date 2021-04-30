@@ -1,0 +1,36 @@
+tellraw @s [
+	"",
+	{
+		"text":"󽩩",
+		"insertion":"󽩩",
+		"hoverEvent":{
+			"action":"show_text",
+			"contents":[{
+					"text":"󽩩 yosoybottom\n"
+				},
+				{
+					"text":"twitch.tv/yosoymatt",
+					"color":"blue"
+				}
+			]
+		}
+	},	
+	{
+		"text":" "
+	},
+	{
+		"text":"􋢺",
+		"insertion":"􋢺",
+		"hoverEvent":{
+			"action":"show_text",
+			"contents":[{
+					"text":"􋢺 worm_lawful\n"
+				},
+				{
+					"text":"discord.gg/AUgHsne",
+					"color":"blue"
+				}
+			]
+		}
+	}
+]
